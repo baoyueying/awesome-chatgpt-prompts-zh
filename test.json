@@ -1,0 +1,12 @@
+[
+  {
+    "cmd": "test",
+    "act": "test",
+    "prompt": "test"
+  },
+  {
+    "cmd": "test1",
+    "act": "test1",
+    "prompt": "test1"
+  }
+]
